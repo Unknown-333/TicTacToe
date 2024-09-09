@@ -12,8 +12,8 @@ This is a simple console-based Tic-Tac-Toe game implemented in C++. The game all
 - Checks for a winner or tie
 
 ## Prerequisites
-   To compile and run this program you will need
-      -A C++ compiler (e.g., ``clang++``, ``g++``)
+   To compile and run this program you will need<br>
+      -A C++ compiler (e.g., ``clang++``, ``g++``)<br>
       -A terminal or command prompt
 
 ## How to Run
