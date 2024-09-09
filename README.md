@@ -38,6 +38,8 @@ This is a simple console-based Tic-Tac-Toe game implemented in C++. The game all
 
 5.**End of Game**: If a winner is found, a message is displayed. If no winner is found after 9 moves, the game is declared a tie.
 
+## Sample Output
+
 ```
    |   |   
    |   |   
@@ -113,4 +115,6 @@ ___|___|___
 Player X is the winner!
 ```
 
+## Contributing
+   Feel free to open issues or submit pull requests for improvements, bug fixes, or additional features. Contributions are welcome!
 
