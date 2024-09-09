@@ -27,7 +27,6 @@ This is a simple console-based Tic-Tac-Toe game implemented in C++. The game all
    ``g++ -o TicTacToe main.cpp`` ``./main``
 
 ##Code Explanation
-
 1.Board Initialization: The game board is initialized as a 3x3 array of characters, all set to a space character ' '.
 
 2.Game Loop: The game runs for a maximum of 9 moves or until a winner is found. After each move, the board is printed, and input is collected from the current player.
