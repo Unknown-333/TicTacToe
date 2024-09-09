@@ -38,5 +38,79 @@ This is a simple console-based Tic-Tac-Toe game implemented in C++. The game all
 
 5.**End of Game**: If a winner is found, a message is displayed. If no winner is found after 9 moves, the game is declared a tie.
 
+```
+   |   |   
+   |   |   
+___|___|___
+   |   |   
+   |   |   
+___|___|___
+   |   |   
+   |   |   
+   |   |   
+
+Current Player is X
+Enter r c from 0-2 for row and column: 0 0
+
+   |   |   
+ X |   |   
+___|___|___
+   |   |   
+   |   |   
+___|___|___
+   |   |   
+   |   |   
+   |   |   
+
+Current Player is O
+Enter r c from 0-2 for row and column: 1 1
+
+   |   |   
+ X |   |   
+___|___|___
+   | O |   
+___|___|___
+   |   |   
+   |   |   
+   |   |   
+
+Current Player is X
+Enter r c from 0-2 for row and column: 0 1
+
+   |   |   
+ X | X |   
+___|___|___
+   | O |   
+___|___|___
+   |   |   
+   |   |   
+   |   |   
+
+Current Player is O
+Enter r c from 1 0
+
+   |   |   
+ X | X |   
+___|___|___
+ O | O |   
+___|___|___
+   |   |   
+   |   |   
+   |   |   
+
+Current Player is X
+Enter r c from 0-2 for row and column: 0 2
+
+   |   |   
+ X | X | X 
+___|___|___
+ O | O |   
+___|___|___
+   |   |   
+   |   |   
+   |   |   
+
+Player X is the winner!
+```
 
 
