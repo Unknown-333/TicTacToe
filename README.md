@@ -24,6 +24,7 @@ This is a simple console-based Tic-Tac-Toe game implemented in C++. The game all
    git clone https://github.com/Unknown-333/TicTacToe.git
 
 2.**Compie and Run**
+
    ``g++ -o TicTacToe main.cpp`` ``./main``
 
 ## Code Explanation
