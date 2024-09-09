@@ -11,7 +11,7 @@ This is a simple console-based Tic-Tac-Toe game implemented in C++. The game all
 - Input validation to ensure valid moves
 - Checks for a winner or tie
 
-##Prerequisites
+## Prerequisites
    To compile and run this program you will need
       -A C++ compiler (e.g., ``clang++``, ``g++``)
       -A terminal or command prompt
@@ -26,7 +26,7 @@ This is a simple console-based Tic-Tac-Toe game implemented in C++. The game all
 2.**Compie and Run**
    ``g++ -o TicTacToe main.cpp`` ``./main``
 
-##Code Explanation
+## Code Explanation
 
 1.**Board Initialization**: The game board is initialized as a 3x3 array of characters, all set to a space character ' '.
 
